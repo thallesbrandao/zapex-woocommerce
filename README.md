@@ -1,1 +1,1 @@
-# zapex-woocommerce
+# Zapex Woocommerce
