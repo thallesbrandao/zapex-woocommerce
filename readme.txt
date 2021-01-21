@@ -1,5 +1,6 @@
 === Zapex for WooCommerce ===
 Contributors: thallesbrandao
+Donate link: http://reatos.com.br/
 Tags: shipping, delivery, woocommerce, zapex
 Requires at least: 4.0
 Tested up to: 5.5
@@ -65,3 +66,9 @@ A seguir está uma lista dos erros mais comuns:
 
 1. Exemplo da tela de configurações dos método Zapex.
 2. Exemplo da tela no carrinho.
+
+
+== Changelog ==
+
+= 1.0 =
+* Initial release
