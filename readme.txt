@@ -1,4 +1,4 @@
-=== Zapex for WooCommerce ===
+=== Transportadora Zapex for WooCommerce ===
 Contributors: thallesbrandao
 Donate link: http://reatos.com.br/
 Tags: shipping, delivery, woocommerce, zapex

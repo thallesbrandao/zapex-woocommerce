@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name:          ZAPEX for WooCommerce
+Plugin Name:          Transportadora ZAPEX for WooCommerce
 Plugin URI:           https://www.reatos.com.br
 Description:          Integração Transportadora ZAPEX à sua loja WooCommerce.
 Author:               Thalles Brandão
